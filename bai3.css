@@ -1,0 +1,37 @@
+.post {
+    position: relative;
+    display:inline-block;
+    
+}
+.caption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+}
+
+.profile-name {
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+  
+  .profile-icons {
+    margin-top: 20px;
+  }
+  
+  .profile-icons i {
+    font-size: 24px;
+    margin: 0 5px;
+    color: #000;
+  }
+.content-1{
+    color:grey;
+    
+}
+
+.content-2{
+    color:grey;
+}

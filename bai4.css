@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+    background-color: antiquewhite;
+
+}
+.sum{
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+.content{
+    display: flex;
+    flex-direction:row-reverse;
+    gap: 30px;
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.item{
+    display: flex;
+    gap: 180px;
+    justify-content: center;
+    margin-top: 250px;
+}
+.item-1{
+    width: 420px;
+    
+}
+button{
+    width: 180px;
+    height: 50px;
+    color: aliceblue;
+    background-color: tomato;
+    margin-top: 30px;
+}
+h1{
+    padding: 30px;
+}
